@@ -1,0 +1,12 @@
+/* selector por etiqueta */
+section h2 {
+    color: blue;
+}
+/* selector con clases */
+.azul{
+    color: aqua;
+}
+/* selector */
+#verde{
+    color: blueviolet;
+}
